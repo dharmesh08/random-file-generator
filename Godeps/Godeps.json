@@ -1,0 +1,10 @@
+{
+	"ImportPath": "v12groupinc.com/V12SocialMedia/testApp/random-file-generator",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Pallinder/go-randomdata",
+			"Rev": "2db2b733307ac1335478a688737dee39ea6a38d1"
+		}
+	]
+}
